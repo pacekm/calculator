@@ -22,4 +22,6 @@ for _ in range(powtorzenia):
 #koniec wyjścia
 
     print(result_adding_one_two)
+#testy gita
+
 
