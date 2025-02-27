@@ -25,3 +25,4 @@ for _ in range(powtorzenia):
 #testy gita
 
 
+#test minionka
